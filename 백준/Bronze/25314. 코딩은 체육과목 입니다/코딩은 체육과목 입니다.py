@@ -1,3 +1,1 @@
-a = int(input())
-
-print("long "*(a//4)+"int")
+print("long "*(int(input())//4)+"int")
